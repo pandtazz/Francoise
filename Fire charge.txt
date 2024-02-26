@@ -1,0 +1,5 @@
+// Java Game: Zombie Apocalypse
+public class ZombieApocalypse {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Zombie Apocalypse!");
+        // Add your Zombie Apocalypse game script here
